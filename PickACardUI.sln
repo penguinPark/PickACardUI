@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.34301.259
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PickACardUI", "PickACardUI\PickACardUI.csproj", "{B2141728-BC6D-4FA6-88F7-2E926A9ACEFA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PickAUniqueCardUI", "PickACardUI\PickAUniqueCardUI.csproj", "{B2141728-BC6D-4FA6-88F7-2E926A9ACEFA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

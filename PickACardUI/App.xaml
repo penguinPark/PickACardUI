@@ -1,7 +1,7 @@
-﻿<Application x:Class="PickACardUI.App"
+﻿<Application x:Class="PickAUniqueCardUI.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:PickACardUI"
+             xmlns:local="clr-namespace:PickAUniqueCardUI"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          
